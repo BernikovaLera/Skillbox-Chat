@@ -1,4 +1,5 @@
 # Skillbox-Chat
+# THE PROJECT IS BEING FINALIZED
 **The purpose of the work:** 
 create a server program responsible for registering clients and transmitting messages between them
 
