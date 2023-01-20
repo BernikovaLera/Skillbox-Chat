@@ -3,6 +3,7 @@
 **The purpose of the work:** 
 create a server program responsible for registering clients and transmitting messages between them
 
+<img src="https://github.com/BernikovaLera/Skillbox-Chat/blob/main/1.png" width="300" height="500" >
 
 **Languages and IDEs/Editors**
 
